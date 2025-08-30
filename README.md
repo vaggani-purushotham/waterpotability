@@ -14,21 +14,21 @@ Target Column: Potability (1 = Safe to Drink, 0 = Not Safe)
 
 # Workflow:
 
-1. Data Exploration & Visualization
+1.DATA EXPLORATION & VISUALIZATION
 
 Null values check & handling (median imputation).
 
 Correlation heatmap, histograms, scatter plots, and box plots.
 
 
-2. Preprocessing:
+2.PREPROCESSING
 
 Train-test split (70-30).
 
 Standardization using StandardScaler.
 
 
-3. Models Trained:
+3.MODELS TRAINED
 
 Logistic Regression
 
@@ -45,7 +45,7 @@ Support Vector Classifier (SVC)
 XGBoost Classifier
 
 
-4. Evaluation Metrics:
+4.EVALUATION METRICS
 
 Accuracy Score
 
