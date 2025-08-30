@@ -14,19 +14,21 @@ Target Column: Potability (1 = Safe to Drink, 0 = Not Safe)
 
 # Workflow:
 
-1.Data Exploration & Visualization
+1. Data Exploration & Visualization
 
 Null values check & handling (median imputation).
 
 Correlation heatmap, histograms, scatter plots, and box plots.
 
-2.Preprocessing:
+
+2. Preprocessing:
 
 Train-test split (70-30).
 
 Standardization using StandardScaler.
 
-3.Models Trained:
+
+3. Models Trained:
 
 Logistic Regression
 
@@ -42,7 +44,8 @@ Support Vector Classifier (SVC)
 
 XGBoost Classifier
 
-4.Evaluation Metrics:
+
+4. Evaluation Metrics:
 
 Accuracy Score
 
@@ -60,7 +63,9 @@ Compared performance of multiple ML models.
 Best model can be chosen based on Accuracy & Precision.
 
 
-How to Run
+
+# How to Run
+
 # Clone this repo
 git clone https://github.com/your-username/water-potability-prediction.git
 cd water-potability-prediction
