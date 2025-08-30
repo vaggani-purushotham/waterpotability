@@ -1,8 +1,9 @@
-Water Potability Prediction:
+#Water Potability Prediction:
+
 This project predicts whether water is potable or not using machine learning models. The dataset includes various water quality indicators such as pH, hardness, solids, chloramines, sulfate, conductivity, and trihalomethanes.
 
 
-Dataset:
+#Dataset:
 
 Source: Kaggle - Water Potability Dataset
 
@@ -11,7 +12,7 @@ Rows: 3,276 samples
 Target Column: Potability (1 = Safe to Drink, 0 = Not Safe)
 
 
-Workflow:
+#Workflow:
 
 1.Data Exploration & Visualization
 
