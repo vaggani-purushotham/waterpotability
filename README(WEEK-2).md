@@ -1,4 +1,4 @@
-3.Models Trained
+3.MODELS TRAINED
 
 Logistic Regression
 
@@ -14,7 +14,7 @@ Support Vector Classifier (SVC)
 
 XGBoost Classifier
 
-4.Evaluation Metrics
+4.EVALUATION METRICS
 
 Accuracy Score
 
@@ -24,7 +24,7 @@ Confusion Matrix (heatmap)
 
 KDE plot (Actual vs Predicted distribution)
 
-5.Results
+5.RESULTS
 
 Compared performance of multiple ML models.
 
