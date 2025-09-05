@@ -64,7 +64,7 @@ Best model can be chosen based on Accuracy & Precision.
 
 # How to Run
 # Clone this repo
-git clone https://github.com/your-username/water-potability-prediction.git
+git clone https://github.com/vaggani-purushotham/water-potability-prediction.git
 
 cd water-potability-prediction
 
