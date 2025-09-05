@@ -5,7 +5,7 @@ This project predicts whether water is potable or not using machine learning mod
 
 # Dataset:
 
-Source: Kaggle - Water Potability Dataset
+Source:Water Potability Dataset
 
 Rows: 3,276 samples
 
